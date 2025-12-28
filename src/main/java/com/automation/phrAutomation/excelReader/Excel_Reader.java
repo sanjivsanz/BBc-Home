@@ -28,6 +28,7 @@ public class Excel_Reader {
 			workbook = new XSSFWorkbook(fis);
 		} catch (Exception e) {
 			e.printStackTrace();
+			e.printStackTrace();
 		}
 	}
 	
